@@ -2,16 +2,13 @@
 
 ## Overview
 
-This is a simple web application built with Streamlit that demonstrates 
+Web traffic forecasting is crucial for website operators and administrators to efficiently manage resources, plan for scalability, and enhance user experience. This repository provides a forecasting model based on SARIMA and ACF Plot, a popular time series forecasting methods to display the timelines of various models using graphs and also help in predicting  future web traffic patterns.
 
-![App Screenshot](img/app_screenshot.png)
+![App Screenshot](chrona.jpg)
 
 ## Features
 
-- Input fields for sepal length, sepal width, petal length, and petal width.
-- Predicts the species of the iris flower based on the input features.
-- Displays the predicted species along with confidence scores.
-
+-
 ## Getting Started
 
 To run the web app locally, follow these steps:
