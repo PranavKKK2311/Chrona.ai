@@ -7,20 +7,7 @@ Web traffic forecasting is crucial for website operators and administrators to e
 ![App Screenshot](chrona.jpg)
 
 ## Features
+An app with a unique UI is made for development of Web Traffic Time Series Forecasting
 
 -
-## Getting Started
 
-To run the web app locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/EDA-App.git
-   cd EDA-App
-   cd eda_app
-
-2. To run the app, pls enter this in your bash, after following Step 1.
-   
-   ```bash
-   streamlit run app.py
