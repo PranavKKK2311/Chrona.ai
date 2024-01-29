@@ -9,5 +9,7 @@ Web traffic forecasting is crucial for website operators and administrators to e
 ## Features
 An app with a unique UI is made for development of Web Traffic Time Series Forecasting
 
+##video recording
+video recording is put with the name CodeClause Internship Web Traffic in this branch. CLICK on view raw and it would download and the viewer could view the file
 -
 
